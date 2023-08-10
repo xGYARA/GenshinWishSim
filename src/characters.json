@@ -1,0 +1,31 @@
+[{
+  "name": "Kazuha",
+  "element": "Anemo",
+  "weaponType": "Sword",
+  "rarity": 5
+},{
+"name": "Barbara",
+"element": "Hydro",
+"weaponType": "Catalyst",
+"rarity": 4
+},{
+"name": "Keqing",
+"element": "Electro",
+"weaponType": "Sword",
+"rarity": 5
+},{
+  "name": "Bennett",
+  "element": "Pyro",
+  "weaponType": "Sword",
+  "rarity": 4
+},{
+  "name": "Yanfei",
+  "element": "Pyro",
+  "weaponType": "Catalyst",
+  "rarity": 4
+},{
+  "name": "Yelan",
+  "element": "Hydro",
+  "weaponType": "Bow",
+  "rarity": 5
+}]
